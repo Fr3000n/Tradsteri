@@ -1,0 +1,5 @@
+{
+  "name": "AI AlgoTrading Strategy Builder",
+  "description": "An intuitive application for designing, building, and backtesting automated trading strategies using natural language prompts powered by the Gemini API.",
+  "requestFramePermissions": []
+}
